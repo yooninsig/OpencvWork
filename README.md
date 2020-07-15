@@ -4,10 +4,9 @@ work with OpenCV Library<div>
 [Coin Detection]<div>
 -----------------------------<div>
 -Media Processing Algorithm <div>
-Don't use openCV Library / make a image processing Algorithm <div>
-</div>
+Don't use openCV Library / make a image processing Algorithm <br>
 ![coin](https://user-images.githubusercontent.com/33900239/87551860-e502c680-c6eb-11ea-9659-6066d8acd432.JPG)
-</div>
+<br>
 [Chroma key]<div>
 ----------------------------<div>
 -Video Chroma key<div>
